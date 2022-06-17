@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 2d585fcf323e6934bb62822e2afb2775
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Cather_2_grp
+  - first:
+      1: 100004
+    second: FE_Catcher1_LookAt
+  - first:
+      1: 100006
+    second: FE_Catcher_1_base
+  - first:
+      1: 100008
+    second: Head_locator
+  - first:
+      1: 100010
+    second: ikHandle3
+  - first:
+      1: 100012
+    second: joint13
+  - first:
+      1: 100014
+    second: joint3
+  - first:
+      1: 100016
+    second: joint4
+  - first:
+      1: 100018
+    second: joint5
+  - first:
+      1: 100020
+    second: joint6
+  - first:
+      1: 100022
+    second: joint7
+  - first:
+      1: 100024
+    second: joint8
+  - first:
+      1: 100026
+    second: Joint_root
+  - first:
+      1: 100028
+    second: polySurface106
+  - first:
+      1: 100030
+    second: polySurface107
+  - first:
+      1: 100032
+    second: polySurface109
+  - first:
+      1: 100034
+    second: polySurface112
+  - first:
+      1: 100036
+    second: polySurface117
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Cather_2_grp
+  - first:
+      4: 400004
+    second: FE_Catcher1_LookAt
+  - first:
+      4: 400006
+    second: FE_Catcher_1_base
+  - first:
+      4: 400008
+    second: Head_locator
+  - first:
+      4: 400010
+    second: ikHandle3
+  - first:
+      4: 400012
+    second: joint13
+  - first:
+      4: 400014
+    second: joint3
+  - first:
+      4: 400016
+    second: joint4
+  - first:
+      4: 400018
+    second: joint5
+  - first:
+      4: 400020
+    second: joint6
+  - first:
+      4: 400022
+    second: joint7
+  - first:
+      4: 400024
+    second: joint8
+  - first:
+      4: 400026
+    second: Joint_root
+  - first:
+      4: 400028
+    second: polySurface106
+  - first:
+      4: 400030
+    second: polySurface107
+  - first:
+      4: 400032
+    second: polySurface109
+  - first:
+      4: 400034
+    second: polySurface112
+  - first:
+      4: 400036
+    second: polySurface117
+  - first:
+      21: 2100000
+    second: Catcher_1_mat
+  - first:
+      23: 2300000
+    second: FE_Catcher_1_base
+  - first:
+      23: 2300002
+    second: polySurface106
+  - first:
+      23: 2300004
+    second: polySurface107
+  - first:
+      23: 2300006
+    second: polySurface112
+  - first:
+      23: 2300008
+    second: polySurface117
+  - first:
+      33: 3300000
+    second: FE_Catcher_1_base
+  - first:
+      33: 3300002
+    second: polySurface106
+  - first:
+      33: 3300004
+    second: polySurface107
+  - first:
+      33: 3300006
+    second: polySurface112
+  - first:
+      33: 3300008
+    second: polySurface117
+  - first:
+      43: 4300000
+    second: polySurface117
+  - first:
+      43: 4300002
+    second: polySurface112
+  - first:
+      43: 4300004
+    second: polySurface106
+  - first:
+      43: 4300006
+    second: polySurface107
+  - first:
+      43: 4300008
+    second: polySurface109
+  - first:
+      43: 4300010
+    second: FE_Catcher_1_base
+  - first:
+      74: 7400000
+    second: Catcher_1_attack
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: polySurface109
+  - first:
+      74: 1827226128182048838
+    second: Catcher_0_Attack
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Catcher_0_Attack
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Catcher_1_attack(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FE_Catcher1_LookAt
+      parentName: Catcher_1_attack(Clone)
+      position: {x: -0, y: 0.39711815, z: 0.22029413}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.8202534, y: 0.8202534, z: 0.8202534}
+    - name: Cather_2_grp
+      parentName: FE_Catcher1_LookAt
+      position: {x: -0, y: -0.44871345, z: -0.07371786}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.96186155, y: 0.96186155, z: 0.96186155}
+    - name: Head_locator
+      parentName: Cather_2_grp
+      position: {x: 1.2514103e-32, y: 1.7183418, z: 0.016950743}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint13
+      parentName: Cather_2_grp
+      position: {x: -0, y: 0.46650526, z: 0.07664082}
+      rotation: {x: 0.22923063, y: -0, z: 0.00000001787064, w: 0.97337216}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Joint_root
+      parentName: joint13
+      position: {x: -0, y: 0.07597044, z: -0.046989124}
+      rotation: {x: 0.1572488, y: -0.6894004, z: -0.1572488, w: 0.6894004}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: joint3
+      parentName: Joint_root
+      position: {x: -0.37232172, y: 0.034789357, z: 0.0000000011601637}
+      rotation: {x: -0, y: -0, z: -0.21498117, w: 0.9766183}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.9999997}
+    - name: joint4
+      parentName: joint3
+      position: {x: -0.26330605, y: 0.023651728, z: -0.0000000011601637}
+      rotation: {x: -0.9609917, y: 0.2765773, z: -0, w: 0}
+      scale: {x: 1, y: 1, z: 0.9999997}
+    - name: polySurface107
+      parentName: joint4
+      position: {x: 0.9564694, y: -0.34980068, z: -4.2836484e-17}
+      rotation: {x: 0.47032627, y: -0.5280087, z: 0.47032627, w: 0.5280087}
+      scale: {x: 1.267475, y: 1.267475, z: 1.267475}
+    - name: joint5
+      parentName: joint4
+      position: {x: -0.46210346, y: 0.1245555, z: 1.5253637e-17}
+      rotation: {x: -0.000000024275295, y: 0.000000017288391, z: 0.32306737, w: 0.946376}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: polySurface106
+      parentName: joint5
+      position: {x: 0.83238655, y: -1.2427773, z: -5.809012e-17}
+      rotation: {x: 0.27452204, y: -0.65164226, z: 0.27452204, w: 0.65164226}
+      scale: {x: 1.267475, y: 1.267475, z: 1.267475}
+    - name: joint6
+      parentName: joint5
+      position: {x: -0.34415182, y: -0.030856688, z: -2.8761583e-17}
+      rotation: {x: 7.764081e-10, y: -0.00000003364137, z: -0.36254683, w: 0.9319656}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000004}
+    - name: joint7
+      parentName: joint6
+      position: {x: -0.27263698, y: 0.016290471, z: -3.1279167e-17}
+      rotation: {x: 0.0000000046757522, y: -0.00000009155329, z: 0.06166418, w: 0.99809694}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1.0000004}
+    - name: polySurface112
+      parentName: joint7
+      position: {x: -0.28432348, y: 0.09110244, z: 1.950626e-18}
+      rotation: {x: 0.022464396, y: -0.70674986, z: 0.022464396, w: 0.70674986}
+      scale: {x: 1.267475, y: 1.267475, z: 1.267475}
+    - name: joint8
+      parentName: joint7
+      position: {x: -0.5191893, y: -0.026280703, z: -6.313966e-17}
+      rotation: {x: -0.000000022197522, y: 0.000000055816614, z: -0.24433342, w: 0.9696913}
+      scale: {x: 1.0000002, y: 0.9999999, z: 1}
+    - name: polySurface117
+      parentName: joint8
+      position: {x: -0.021568298, y: -0.00048553466, z: 6.509029e-17}
+      rotation: {x: 0.19446619, y: -0.6798404, z: 0.19446619, w: 0.6798404}
+      scale: {x: 1.267475, y: 1.267475, z: 1.267475}
+    - name: polySurface109
+      parentName: FE_Catcher1_LookAt
+      position: {x: -0, y: -0.4841408, z: -0.26856837}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.2191355, y: 1.2191355, z: 1.2191355}
+    - name: ikHandle3
+      parentName: FE_Catcher1_LookAt
+      position: {x: 1.825644e-21, y: 1.2040765, z: -0.057413407}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.2191355, y: 1.2191355, z: 1.2191355}
+    - name: FE_Catcher_1_base
+      parentName: Catcher_1_attack(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

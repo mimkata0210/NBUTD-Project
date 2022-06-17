@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4578680d04eadb0499650f1a7dd12196, type: 3}
+  m_Name: Lizzard
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1392095958707988780, guid: aec631245a0071e4281423790cd515b3, type: 3}
+  sprite: {fileID: 21300000, guid: b8390c6263f55c046aad2bddc42a423f, type: 3}
+  income: 2
+  price: 10
+  goldOnDeath: 5
